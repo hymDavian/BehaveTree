@@ -1,0 +1,26 @@
+[
+    {
+        "name": "playAnimation_out",
+        "paramsList": [
+            "guid",
+            "loopNum",
+            "speed"
+        ]
+    },
+    {
+        "name": "testff_out",
+        "paramsList": [
+            "nn"
+        ]
+    },
+    {
+        "name": "ffff_out",
+        "paramsList": [
+            "ff"
+        ]
+    },
+    {
+        "name": "test_out",
+        "paramsList": []
+    }
+]
